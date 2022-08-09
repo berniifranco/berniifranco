@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @berniifranco
+- 👋 Hi, I’m Bernardo Franco
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning FullStack Web Developer
 - 💞️ I’m looking to collaborate on everywhere
